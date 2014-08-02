@@ -10,7 +10,7 @@ written.
 ##Design
 atorrentlib was started by a very shit programmer who was then quite crap at
 his trade. Hence, the objective of this library is to be simple and the library
-is not expected to be a very serious reputation, at all. It will attempt to
+is not expected to have a very serious reputation, at all. It will attempt to
 implement the bittorent protocol in the most direct and unobstrusive way
 possible. There will be little concern for "standards" or "convention". There
 is no "style" the developer has chosen to adopt, although consistency will be
@@ -20,10 +20,10 @@ something works.
 The author will attempt to avoid anything deemed remotely "harmful", although
 such definitions have been made purely on the author's sadly uninformed
 opinion. Thus, this means that there will be little use of external libraries
-and the author will attempt to use his own incredbibly hopeless implementation
+and the author will attempt to use his own incredibly hopeless implementation
 that will no doubt cause great harm to the machine running the software.
 
-The progress of the libraries creation will be documented intensively. There
+The progress of the library's creation will be documented intensively. There
 will be an issue written with a problem, and a brief explanation if at all
 necessary, followed by a resolving commit. Work is planned out before it is
 implemented.  TODOs and bug fixes are scheduled in advance. There are no
